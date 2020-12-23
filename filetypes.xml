@@ -1,0 +1,41 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="urdf" type="DTD" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="output_dh" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="database_info" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern=".igore" type="PLAIN_TEXT" />
+      <mapping pattern="bash_login" type="PLAIN_TEXT" />
+      <mapping pattern="echosocket" type="PLAIN_TEXT" />
+      <mapping pattern="pylintrc" type="PLAIN_TEXT" />
+      <mapping pattern="Untitled Document 1" type="PLAIN_TEXT" />
+      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".temp" type="PLAIN_TEXT" />
+      <mapping pattern=".swp" type="PLAIN_TEXT" />
+      <mapping pattern="kk" type="PLAIN_TEXT" />
+      <mapping pattern=".noserc" type="PLAIN_TEXT" />
+      <mapping pattern="12" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="logtue jan 26 14:14:33 2016" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="mak" type="PLAIN_TEXT" />
+      <mapping ext="2017-04-24" type="PLAIN_TEXT" />
+      <mapping ext="qch" type="PLAIN_TEXT" />
+      <mapping ext="css_t" type="PLAIN_TEXT" />
+      <mapping ext="hi" type="PLAIN_TEXT" />
+      <mapping ext="npy" type="PLAIN_TEXT" />
+      <mapping ext="54" type="PLAIN_TEXT" />
+      <mapping ext="doctree" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="pk" type="PLAIN_TEXT" />
+      <mapping pattern="boxL" type="Python" />
+      <removed_mapping ext="urdf" approved="true" type="XML" />
+    </extensionMap>
+  </component>
+</application>
