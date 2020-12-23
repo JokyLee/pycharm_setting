@@ -1,9 +1,0 @@
-{
-    "window.zoomLevel": 0,
-    "markdownlint.config": {
-      "MD033": false,
-      "MD007": { "indent": 4 },
-    },
-    "files.eol": "\n",
-    "markdown-toc.depthFrom": 2,
-}
