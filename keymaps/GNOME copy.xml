@@ -1,0 +1,6 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+</keymap>
